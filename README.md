@@ -11,8 +11,8 @@ This project is a reverse image search engine that leverages the power of a Weav
 
 - **Frontend**: Next.js, React, Ant Design UI library
 - **Backend**: Node.js, Express.js
-- **Database**: Weaviate vector database
-- **Image Processing**: Utilizes Weaviate's img2vec-neural module for converting images into vectors
+- **Database**: Weaviate vector database and xata
+- **Image Processing**: Utilizes Weaviate's img2vec-neural module for converting images into vectors and xata for storage and search using elastic search
 
 ## Prerequisites
 
