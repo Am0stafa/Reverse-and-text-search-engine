@@ -23,9 +23,9 @@ This project is a reverse image search engine that leverages the power of a Weav
 
 ### Start the Weaviate Database
 
-1. Navigate to the `client` directory and start Weaviate with Docker Compose:
+1. Navigate to the `home` directory and start Weaviate with Docker Compose:
 ```
-cd client && docker-compose up -d
+cd Reverse-Image-Search-Engine && docker-compose up -d
 ```
 
 ### Start the Backend API
